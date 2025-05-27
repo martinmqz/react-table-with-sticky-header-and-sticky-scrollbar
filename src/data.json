@@ -1,0 +1,8878 @@
+{
+  "tables": [
+    {
+      "id": "table1",
+      "headers": [
+        {
+          "text": "Security"
+        },
+        {
+          "text": "Ticker"
+        },
+        {
+          "text": "CUSIP"
+        },
+        {
+          "text": "ISIN"
+        },
+        {
+          "text": "SEDOL"
+        },
+        {
+          "text": "Asset class"
+        },
+        {
+          "text": "Principal Amount"
+        },
+        {
+          "text": "Market value"
+        },
+        {
+          "text": "Notional value"
+        },
+        {
+          "text": "Percent of Net Assets"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "text": "CROWN FINANCE US INC 2024 TERM LOAN B"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "22834KAU5"
+          },
+          {
+            "text": "US22834KAU51"
+          },
+          {
+            "text": "22834KAU5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "535 ],000.00"
+          },
+          {
+            "text": "$532 ],036"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.27%"
+          }
+        ],
+        [
+          {
+            "text": "CQP Holdco LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "12657NAB6"
+          },
+          {
+            "text": "US12657NAB64"
+          },
+          {
+            "text": "BNDQW43"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$531,258"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.27%"
+          }
+        ],
+        [
+          {
+            "text": "Castellum Ab Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2033V3"
+          },
+          {
+            "text": "XS2380124227"
+          },
+          {
+            "text": "BMWGBM8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$526,395"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "VMED O2 UK Financing I Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2NJDQ3"
+          },
+          {
+            "text": "XS2796600307"
+          },
+          {
+            "text": "BLC9J37"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "485,000.00"
+          },
+          {
+            "text": "$524,698"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "NETAPP INC SR UNSECURED 03/35 5.7"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "64110DAN4"
+          },
+          {
+            "text": "US64110DAN49"
+          },
+          {
+            "text": "US64110DAN49"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "520,000.00"
+          },
+          {
+            "text": "$523,155"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Cidron Aida Finco SARL"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "BKSC7TII0"
+          },
+          {
+            "text": "XS2325699994"
+          },
+          {
+            "text": "BKSC7T5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "490,000.00"
+          },
+          {
+            "text": "$518,749"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Aircastle Limited"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "00928QAY7"
+          },
+          {
+            "text": "US00928QAY70"
+          },
+          {
+            "text": "US00928QAY70"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "505,000.00"
+          },
+          {
+            "text": "$518,420"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Lloyds Banking Group Plc Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "53944YAJ2"
+          },
+          {
+            "text": "US53944YAJ29"
+          },
+          {
+            "text": "BK6Q142"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "515,000.00"
+          },
+          {
+            "text": "$518,311"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "THE BAHA TRUST BAHA 2024 MAR B 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "05493XAE0"
+          },
+          {
+            "text": "US05493XAE04"
+          },
+          {
+            "text": "05493XAE0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$518,064"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Southwestern Energy Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "845467AS8"
+          },
+          {
+            "text": "US845467AS85"
+          },
+          {
+            "text": "BMDVV88"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "520,000.00"
+          },
+          {
+            "text": "$517,035"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Prairie Acquiror LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "73943NAA4"
+          },
+          {
+            "text": "US73943NAA46"
+          },
+          {
+            "text": "US73943NAA46"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "505,000.00"
+          },
+          {
+            "text": "$516,959"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Venture Global Lng, Inc. Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92332YAF8"
+          },
+          {
+            "text": "US92332YAF88"
+          },
+          {
+            "text": "BRSF3L7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "531,000.00"
+          },
+          {
+            "text": "$513,729"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "CLICKLEASE EQUIPMENT RECEIVABL CLICK 2024C 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "18682FAC7"
+          },
+          {
+            "text": "US18682FAC77"
+          },
+          {
+            "text": "18682FAC7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$510,868"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.26%"
+          }
+        ],
+        [
+          {
+            "text": "Wintershall Dea FinanceBv Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1V3BD2"
+          },
+          {
+            "text": "XS2286041947"
+          },
+          {
+            "text": "BMTVY16"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$508,101"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "NN Group N.V."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI27R7K3"
+          },
+          {
+            "text": "XS2526486159"
+          },
+          {
+            "text": "BMYSH91"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "440,000.00"
+          },
+          {
+            "text": "$507,723"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Rock Trust 2024 Cntr"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "74970WAA8"
+          },
+          {
+            "text": "US74970WAA80"
+          },
+          {
+            "text": "74970WAA8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$503,234"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Foundry JV Holdco LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "350930AG8"
+          },
+          {
+            "text": "US350930AG89"
+          },
+          {
+            "text": "BRXZ572"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "490,000.00"
+          },
+          {
+            "text": "$502,157"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "AJAX MORTGAGE LOAN TRUST AJAXM 2021 E A1 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "009740AA9"
+          },
+          {
+            "text": "US009740AA95"
+          },
+          {
+            "text": "009740AA9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "575,115.03"
+          },
+          {
+            "text": "$502,076"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Transurban Group Ltd."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "BKSBMYII4"
+          },
+          {
+            "text": "XS2614623978"
+          },
+          {
+            "text": "BKSBMY2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "450,000.00"
+          },
+          {
+            "text": "$501,667"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Morgan Stanley"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "61747YFV2"
+          },
+          {
+            "text": "US61747YFV20"
+          },
+          {
+            "text": "US61747YFV20"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "505,000.00"
+          },
+          {
+            "text": "$500,092"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "U.S. Treasuries"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "912810UC0"
+          },
+          {
+            "text": "US912810UC08"
+          },
+          {
+            "text": "BR2NN95"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "525,000.00"
+          },
+          {
+            "text": "$498,176"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Sabey Data Center Issuer LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "78520EAC0"
+          },
+          {
+            "text": "US78520EAC03"
+          },
+          {
+            "text": "78520EAC0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$495,016"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Hipgnosis Music Assets 2022-1 LP 05/16/2062"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "43351RAA3"
+          },
+          {
+            "text": "US43351RAA32"
+          },
+          {
+            "text": "US43351RAA32"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "499,403.62"
+          },
+          {
+            "text": "$493,355"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.25%"
+          }
+        ],
+        [
+          {
+            "text": "Macquarie AirFinance Holdings Ltd."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "55609NAC2"
+          },
+          {
+            "text": "US55609NAC20"
+          },
+          {
+            "text": "US55609NAC20"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "475,000.00"
+          },
+          {
+            "text": "$489,621"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "VistaJet Malta Finance Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92841HAA0"
+          },
+          {
+            "text": "US92841HAA05"
+          },
+          {
+            "text": "BQYLSG2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "487,000.00"
+          },
+          {
+            "text": "$488,441"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "Self Esteem Brands, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "78433DAA2"
+          },
+          {
+            "text": "US78433DAA28"
+          },
+          {
+            "text": "US78433DAA28"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "498,750.00"
+          },
+          {
+            "text": "$486,282"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "COMMONWEALTH BANK AUST SUBORDINATED 144A 03/46 VAR"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "202712BX2"
+          },
+          {
+            "text": "US202712BX27"
+          },
+          {
+            "text": "US202712BX27"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "485,000.00"
+          },
+          {
+            "text": "$484,487"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "Realty Income Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2H3022"
+          },
+          {
+            "text": "XS2644969698"
+          },
+          {
+            "text": "BPXZM88"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "415,000.00"
+          },
+          {
+            "text": "$483,062"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "Holding d'Infrastructures des Metiers de l'Environnement    Societe par actions simplifiee"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2RQTY9"
+          },
+          {
+            "text": "XS2918553855"
+          },
+          {
+            "text": "BSF0691"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "435,000.00"
+          },
+          {
+            "text": "$482,750"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "A+D MORTGAGE TRUST ADMT 2024 NQM5 A1 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "00039KAC4"
+          },
+          {
+            "text": "US00039KAC45"
+          },
+          {
+            "text": "00039KAC4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "481,203.49"
+          },
+          {
+            "text": "$482,301"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "EPR Properties"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "26884UAF6"
+          },
+          {
+            "text": "US26884UAF66"
+          },
+          {
+            "text": "BHQZFR9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "505,000.00"
+          },
+          {
+            "text": "$474,172"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "DaVita Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "23918KAW8"
+          },
+          {
+            "text": "US23918KAW80"
+          },
+          {
+            "text": "BP813J9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "465,000.00"
+          },
+          {
+            "text": "$471,548"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.24%"
+          }
+        ],
+        [
+          {
+            "text": "Hasbro, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "418056BA4"
+          },
+          {
+            "text": "US418056BA46"
+          },
+          {
+            "text": "US418056BA46"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "460,000.00"
+          },
+          {
+            "text": "$469,236"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Raiffeisen Bank International AG"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI286249"
+          },
+          {
+            "text": "XS2534786590"
+          },
+          {
+            "text": "BMHWV21"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$469,001"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Braskem Netherlands Finance BV"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "10554TAG0"
+          },
+          {
+            "text": "US10554TAG04"
+          },
+          {
+            "text": "BMXHQJ2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "495,000.00"
+          },
+          {
+            "text": "$465,179"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "CaixaBank, S.A."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2B6Q07"
+          },
+          {
+            "text": "XS2558978883"
+          },
+          {
+            "text": "BP394Q2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$463,862"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Teleperformance SE"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2L5NV3"
+          },
+          {
+            "text": "FR001400M2G2"
+          },
+          {
+            "text": "FR001400M2G2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$463,240"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Deutsche Bank Aktiengesellschaft"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI27THY8"
+          },
+          {
+            "text": "DE000A30VT06"
+          },
+          {
+            "text": "BL6JGY3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$458,703"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "EchoStar Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "278768AA4"
+          },
+          {
+            "text": "US278768AA44"
+          },
+          {
+            "text": "BT6M5C9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "500,000.00"
+          },
+          {
+            "text": "$457,474"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Euro Currency"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "999EURZ94"
+          },
+          {
+            "text": "999EURZ94"
+          },
+          {
+            "text": "999EURZ94"
+          },
+          {
+            "text": "Cash"
+          },
+          {
+            "text": "415,824.76"
+          },
+          {
+            "text": "$451,315"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.23%"
+          }
+        ],
+        [
+          {
+            "text": "Aker BP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1XMGB7"
+          },
+          {
+            "text": "XS2341269970"
+          },
+          {
+            "text": "BNZFGQ8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "450,000.00"
+          },
+          {
+            "text": "$447,692"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "Banco Nacional de Comercio Exterior SNC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "05973JAA8"
+          },
+          {
+            "text": "US05973JAA88"
+          },
+          {
+            "text": "US05973JAA88"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "475,000.00"
+          },
+          {
+            "text": "$446,473"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AKKBBX5TV"
+          },
+          {
+            "text": "25AKKBBX5TV"
+          },
+          {
+            "text": "25AKKBBX5TV"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-2,500,000.00"
+          },
+          {
+            "text": "$439,812"
+          },
+          {
+            "text": "-$2,500,000"
+          },
+          {
+            "text": "-0.02%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BHKBB1DLW"
+          },
+          {
+            "text": "25BHKBB1DLW"
+          },
+          {
+            "text": "25BHKBB1DLW"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-2,500,000.00"
+          },
+          {
+            "text": "$439,812"
+          },
+          {
+            "text": "-$2,500,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Piedmont Operating Partnership, L.P."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "720198AG5"
+          },
+          {
+            "text": "US720198AG56"
+          },
+          {
+            "text": "US720198AG56"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "395,000.00"
+          },
+          {
+            "text": "$436,370"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "CP ATLAS BUYER INC 2021 TERM LOAN B"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "12658HAG7"
+          },
+          {
+            "text": "US12658HAG74"
+          },
+          {
+            "text": "12658HAG7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "485,000.00"
+          },
+          {
+            "text": "$435,045"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "Bayer AG"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1GRM02"
+          },
+          {
+            "text": "XS2077670003"
+          },
+          {
+            "text": "BK8J9V2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$433,076"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "888 Acquisitions Limited"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI26XVQ1"
+          },
+          {
+            "text": "XS2498544415"
+          },
+          {
+            "text": "BRZRFB0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "395,000.00"
+          },
+          {
+            "text": "$432,507"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.22%"
+          }
+        ],
+        [
+          {
+            "text": "Sampo Oyj"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1QTKQ2"
+          },
+          {
+            "text": "XS2226645278"
+          },
+          {
+            "text": "BL649M7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "440,000.00"
+          },
+          {
+            "text": "$429,106"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.21%"
+          }
+        ],
+        [
+          {
+            "text": "AUD250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LKKBCGXZ7"
+          },
+          {
+            "text": "24LKKBCGXZ7"
+          },
+          {
+            "text": "24LKKBCGXZ7"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-680,000.00"
+          },
+          {
+            "text": "$428,796"
+          },
+          {
+            "text": "-$680,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "Uniti Fiber Abs Issuer Llc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "91326EAA3"
+          },
+          {
+            "text": "US91326EAA38"
+          },
+          {
+            "text": "US91326EAA38"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "420,000.00"
+          },
+          {
+            "text": "$425,011"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.21%"
+          }
+        ],
+        [
+          {
+            "text": "ConocoPhillips Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "20826FBM7"
+          },
+          {
+            "text": "US20826FBM77"
+          },
+          {
+            "text": "US20826FBM77"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "435,000.00"
+          },
+          {
+            "text": "$424,625"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.21%"
+          }
+        ],
+        [
+          {
+            "text": "Charter Communications Operating. LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "161175CC6"
+          },
+          {
+            "text": "US161175CC60"
+          },
+          {
+            "text": "BMBP1C6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "615,000.00"
+          },
+          {
+            "text": "$414,532"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.21%"
+          }
+        ],
+        [
+          {
+            "text": "TotalEnergies Capital SA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "89157XAF8"
+          },
+          {
+            "text": "US89157XAF87"
+          },
+          {
+            "text": "US89157XAF87"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "435,000.00"
+          },
+          {
+            "text": "$413,058"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.21%"
+          }
+        ],
+        [
+          {
+            "text": "Government of Colombia"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "195325EL5"
+          },
+          {
+            "text": "US195325EL56"
+          },
+          {
+            "text": "US195325EL56"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$409,331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Bank of Ireland Group plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "06279JAD1"
+          },
+          {
+            "text": "US06279JAD19"
+          },
+          {
+            "text": "US06279JAD19"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$409,212"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Global Aircraft Leasing Co. Ltd."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "37960JAC2"
+          },
+          {
+            "text": "US37960JAC27"
+          },
+          {
+            "text": "US37960JAC27"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$409,085"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "SMBC Aviation Capital Finance DAC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "78448TAH5"
+          },
+          {
+            "text": "US78448TAH59"
+          },
+          {
+            "text": "US78448TAH59"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$406,838"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Government of Colombia"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "195325EG6"
+          },
+          {
+            "text": "US195325EG61"
+          },
+          {
+            "text": "195325EG6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "405,000.00"
+          },
+          {
+            "text": "$406,347"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Cleveland-Cliffs Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "185899AP6"
+          },
+          {
+            "text": "US185899AP61"
+          },
+          {
+            "text": "BM8K6S5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "410,000.00"
+          },
+          {
+            "text": "$404,812"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Southern California Edison Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "842400JH7"
+          },
+          {
+            "text": "US842400JH78"
+          },
+          {
+            "text": "US842400JH78"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "415,000.00"
+          },
+          {
+            "text": "$403,961"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Intact Financial Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "45823TAL0"
+          },
+          {
+            "text": "US45823TAL08"
+          },
+          {
+            "text": "BMCZXK7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$403,832"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Chorus Limited"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI27Z535"
+          },
+          {
+            "text": "XS2521013909"
+          },
+          {
+            "text": "BPP4KN4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "365,000.00"
+          },
+          {
+            "text": "$400,860"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Dominion Energy, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25746UDV8"
+          },
+          {
+            "text": "US25746UDV89"
+          },
+          {
+            "text": "US25746UDV89"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$399,670"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "RIO TINTO FIN USA PLC RIO TINTO FIN USA PLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "76720AAW6"
+          },
+          {
+            "text": "US76720AAW62"
+          },
+          {
+            "text": "76720AAW6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "385,000.00"
+          },
+          {
+            "text": "$394,409"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.20%"
+          }
+        ],
+        [
+          {
+            "text": "Energy Transfer Lp Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29273VAN0"
+          },
+          {
+            "text": "US29273VAN01"
+          },
+          {
+            "text": "BN2CHF8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "390,000.00"
+          },
+          {
+            "text": "$389,507"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "Brandywine Operating Partnership, L.P."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "105340AR4"
+          },
+          {
+            "text": "US105340AR47"
+          },
+          {
+            "text": "BL6JPQ8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "371,000.00"
+          },
+          {
+            "text": "$388,540"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "Government of Israel"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "46514BRM1"
+          },
+          {
+            "text": "US46514BRM18"
+          },
+          {
+            "text": "US46514BRM18"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "415,000.00"
+          },
+          {
+            "text": "$386,904"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "Computershare US, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI20SRW0"
+          },
+          {
+            "text": "XS2393323667"
+          },
+          {
+            "text": "BP481B2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "415,000.00"
+          },
+          {
+            "text": "$386,684"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "Province of Cordoba"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "74408DAE4"
+          },
+          {
+            "text": "US74408DAE40"
+          },
+          {
+            "text": "74408DAE4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "410,000.00"
+          },
+          {
+            "text": "$385,323"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "Optics Bidco S.P.A."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "953ZNCII1"
+          },
+          {
+            "text": "XS2804501208"
+          },
+          {
+            "text": "BT5GGX0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "390,000.00"
+          },
+          {
+            "text": "$383,840"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "CREDIT SUISSE MORTGAGE TRUST CSMC 2018 RPL9 A 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "12654PAE8"
+          },
+          {
+            "text": "US12654PAE88"
+          },
+          {
+            "text": "12654PAE8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,391.04"
+          },
+          {
+            "text": "$383,371"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "JPMorgan Chase &amp; Co."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "46647PDF0"
+          },
+          {
+            "text": "US46647PDF09"
+          },
+          {
+            "text": "BPQCMV9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "380,000.00"
+          },
+          {
+            "text": "$377,380"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "South Bow USA Infrastructure Holdings LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "83007CAC6"
+          },
+          {
+            "text": "US83007CAC64"
+          },
+          {
+            "text": "BSMNPK7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "380,000.00"
+          },
+          {
+            "text": "$376,924"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.19%"
+          }
+        ],
+        [
+          {
+            "text": "British Telecommunications plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2GQWH4"
+          },
+          {
+            "text": "XS2636324274"
+          },
+          {
+            "text": "BRXYY94"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "265,000.00"
+          },
+          {
+            "text": "$367,264"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Charter Communications Operating. LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "161175CQ5"
+          },
+          {
+            "text": "US161175CQ56"
+          },
+          {
+            "text": "US161175CQ56"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "355,000.00"
+          },
+          {
+            "text": "$366,089"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Tallgrass Energy Partners, L.P."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "87470LAJ0"
+          },
+          {
+            "text": "US87470LAJ08"
+          },
+          {
+            "text": "BMTS6Q6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "382,000.00"
+          },
+          {
+            "text": "$365,779"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Rock Trust 2024 Cntr"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "74970WAC4"
+          },
+          {
+            "text": "US74970WAC47"
+          },
+          {
+            "text": "US74970WAC47"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "360,000.00"
+          },
+          {
+            "text": "$364,456"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Five Guys Funding LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "33830JAE5"
+          },
+          {
+            "text": "US33830JAE55"
+          },
+          {
+            "text": "US33830JAE55"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "349,125.00"
+          },
+          {
+            "text": "$363,148"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Macy's Retail Holdings LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "55617LAR3"
+          },
+          {
+            "text": "US55617LAR33"
+          },
+          {
+            "text": "BP960B4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "388,000.00"
+          },
+          {
+            "text": "$361,723"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Morgan Stanley Capital I Trust 2014-150e"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "61764BAA1"
+          },
+          {
+            "text": "US61764BAA17"
+          },
+          {
+            "text": "US61764BAA17"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "405,000.00"
+          },
+          {
+            "text": "$361,511"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "FONTAINEBLEAU MIAMI BEACH TRUS FMBT 2024 FBLU D 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "34461WAG5"
+          },
+          {
+            "text": "US34461WAG50"
+          },
+          {
+            "text": "34461WAG5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "360,000.00"
+          },
+          {
+            "text": "$360,225"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Evergy, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "30034WAE6"
+          },
+          {
+            "text": "US30034WAE66"
+          },
+          {
+            "text": "US30034WAE66"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "360,000.00"
+          },
+          {
+            "text": "$357,636"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "Tele Columbus AG"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI12FD45"
+          },
+          {
+            "text": "XS1814547334"
+          },
+          {
+            "text": "BFXPBT2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$357,254"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.18%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BKKBCNZRB"
+          },
+          {
+            "text": "25BKKBCNZRB"
+          },
+          {
+            "text": "25BKKBCNZRB"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-2,000,000.00"
+          },
+          {
+            "text": "$351,849"
+          },
+          {
+            "text": "-$2,000,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "Star Parent, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "855170AA4"
+          },
+          {
+            "text": "US855170AA41"
+          },
+          {
+            "text": "BMCMQL0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "344,000.00"
+          },
+          {
+            "text": "$348,536"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "JELD-WEN Holding, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "47580PAA1"
+          },
+          {
+            "text": "US47580PAA12"
+          },
+          {
+            "text": "BP813D3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "390,000.00"
+          },
+          {
+            "text": "$345,825"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "ONE NEW YORK PLAZA TRUST 2020 ONYP 2020 1NYP A 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "68249DAA7"
+          },
+          {
+            "text": "US68249DAA72"
+          },
+          {
+            "text": "68249DAA7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "360,000.00"
+          },
+          {
+            "text": "$344,700"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "Entegris Escrow Corp."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29365BAA1"
+          },
+          {
+            "text": "US29365BAA17"
+          },
+          {
+            "text": "BPVCP60"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "355,000.00"
+          },
+          {
+            "text": "$343,557"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "Goldman Sachs Group, Inc. Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "38144GAE1"
+          },
+          {
+            "text": "US38144GAE17"
+          },
+          {
+            "text": "BNDC1K0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "350,000.00"
+          },
+          {
+            "text": "$342,243"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "Jersey Mike's Funding LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "476681AD3"
+          },
+          {
+            "text": "US476681AD37"
+          },
+          {
+            "text": "US476681AD37"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "340,000.00"
+          },
+          {
+            "text": "$341,870"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LNKBB60RG"
+          },
+          {
+            "text": "24LNKBB60RG"
+          },
+          {
+            "text": "24LNKBB60RG"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-1,935,000.00"
+          },
+          {
+            "text": "$340,414"
+          },
+          {
+            "text": "-$1,935,000"
+          },
+          {
+            "text": "-0.02%"
+          }
+        ],
+        [
+          {
+            "text": "Comision Federal de Electricidad SA de CV"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "200447AH3"
+          },
+          {
+            "text": "US200447AH32"
+          },
+          {
+            "text": "BM9WGS0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "400,000.00"
+          },
+          {
+            "text": "$339,983"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "JPMorgan Chase &amp; Co."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "46647PES1"
+          },
+          {
+            "text": "US46647PES11"
+          },
+          {
+            "text": "BR4Y0J5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "340,000.00"
+          },
+          {
+            "text": "$339,595"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "Le Groupe Videotron Ltd."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92660FAN4"
+          },
+          {
+            "text": "US92660FAN42"
+          },
+          {
+            "text": "US92660FAN42"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "360,000.00"
+          },
+          {
+            "text": "$338,999"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25ANKBBW2TW"
+          },
+          {
+            "text": "25ANKBBW2TW"
+          },
+          {
+            "text": "25ANKBBW2TW"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-260,000.00"
+          },
+          {
+            "text": "$337,148"
+          },
+          {
+            "text": "-$260,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Camelot Return Merger Sub, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "13323NAA0"
+          },
+          {
+            "text": "US13323NAA00"
+          },
+          {
+            "text": "BP4V0D6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "385,000.00"
+          },
+          {
+            "text": "$335,943"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.17%"
+          }
+        ],
+        [
+          {
+            "text": "Ares Capital Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "04010LBB8"
+          },
+          {
+            "text": "US04010LBB80"
+          },
+          {
+            "text": "BMVZBL5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "355,000.00"
+          },
+          {
+            "text": "$329,895"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "Vodafone Group Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1QP389"
+          },
+          {
+            "text": "XS2225204010"
+          },
+          {
+            "text": "BMF69W1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "320,000.00"
+          },
+          {
+            "text": "$325,605"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "ZAR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LLKBB6WCG"
+          },
+          {
+            "text": "24LLKBB6WCG"
+          },
+          {
+            "text": "24LLKBB6WCG"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-5,900,000.00"
+          },
+          {
+            "text": "$325,027"
+          },
+          {
+            "text": "-$5,900,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "WarnerMedia Holdings, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "55903VBC6"
+          },
+          {
+            "text": "US55903VBC63"
+          },
+          {
+            "text": "US55903VBC63"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "365,000.00"
+          },
+          {
+            "text": "$324,386"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "Worldline SA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2JN877"
+          },
+          {
+            "text": "FR001400KLT5"
+          },
+          {
+            "text": "BNSP3P3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$323,275"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "Duke Energy Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2683G9"
+          },
+          {
+            "text": "XS2488626883"
+          },
+          {
+            "text": "BMY29L9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$318,474"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "Kohl's Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "500255AX2"
+          },
+          {
+            "text": "US500255AX28"
+          },
+          {
+            "text": "US500255AX28"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "442,000.00"
+          },
+          {
+            "text": "$315,944"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "AUD250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AKKBBXM30"
+          },
+          {
+            "text": "25AKKBBXM30"
+          },
+          {
+            "text": "25AKKBBXM30"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-500,000.00"
+          },
+          {
+            "text": "$315,292"
+          },
+          {
+            "text": "-$500,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "Government of the Dominican Republic"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25714PET1"
+          },
+          {
+            "text": "US25714PET12"
+          },
+          {
+            "text": "US25714PET12"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$311,895"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "LEIDOS INC COMPANY GUAR 03/35 5.5"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "52532XAL9"
+          },
+          {
+            "text": "US52532XAL91"
+          },
+          {
+            "text": "BV4FN31"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "310,000.00"
+          },
+          {
+            "text": "$311,371"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.16%"
+          }
+        ],
+        [
+          {
+            "text": "Ziply Fiber Issuer, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "98979QAC7"
+          },
+          {
+            "text": "US98979QAC78"
+          },
+          {
+            "text": "98979QAC7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$310,035"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "MercadoLibre, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "58733RAF9"
+          },
+          {
+            "text": "US58733RAF91"
+          },
+          {
+            "text": "BLB39M9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "350,000.00"
+          },
+          {
+            "text": "$309,637"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "Oglethorpe Power Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "677050AL0"
+          },
+          {
+            "text": "US677050AL09"
+          },
+          {
+            "text": "BD72T68"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "385,000.00"
+          },
+          {
+            "text": "$308,189"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "Hyundai Capital America, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "44891ACX3"
+          },
+          {
+            "text": "US44891ACX37"
+          },
+          {
+            "text": "US44891ACX37"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$303,087"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "CENTERSQUARE ISSUER LLC CNSQ 2025 1A A2"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "15201EAD6"
+          },
+          {
+            "text": "US15201EAD67"
+          },
+          {
+            "text": "US15201EAD67"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$292,719"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "American Airlines 2015-1 Pass Through Trust"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "023770AA8"
+          },
+          {
+            "text": "US023770AA81"
+          },
+          {
+            "text": "BW9P7W0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "301,695.46"
+          },
+          {
+            "text": "$292,004"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25ALKBBXFXM"
+          },
+          {
+            "text": "25ALKBBXFXM"
+          },
+          {
+            "text": "25ALKBBXFXM"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-225,000.00"
+          },
+          {
+            "text": "$291,763"
+          },
+          {
+            "text": "-$225,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Almaviva - The Italian Innovation Company S.P.A."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2RXSH2"
+          },
+          {
+            "text": "XS2927492871"
+          },
+          {
+            "text": "XS2927492871"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "265,000.00"
+          },
+          {
+            "text": "$291,751"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "TUI Cruises GmbH"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2S99J1"
+          },
+          {
+            "text": "XS2941358397"
+          },
+          {
+            "text": "XS2941358397"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "265,000.00"
+          },
+          {
+            "text": "$290,806"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.15%"
+          }
+        ],
+        [
+          {
+            "text": "Viatris Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92556VAE6"
+          },
+          {
+            "text": "US92556VAE65"
+          },
+          {
+            "text": "US92556VAE65"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "390,000.00"
+          },
+          {
+            "text": "$290,091"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "TK Elevator Holdco GmbH"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92537VAA8"
+          },
+          {
+            "text": "US92537VAA89"
+          },
+          {
+            "text": "BMC5TG5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "289,000.00"
+          },
+          {
+            "text": "$289,235"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "TOWD POINT MORTGAGE TRUST TPMT 2024 CES1 A2 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "89183CAC9"
+          },
+          {
+            "text": "US89183CAC91"
+          },
+          {
+            "text": "89183CAC9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "285,000.00"
+          },
+          {
+            "text": "$288,959"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Aedas Homes Opco SLU"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1XSD92"
+          },
+          {
+            "text": "XS2343874215"
+          },
+          {
+            "text": "ACI1XSD92"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "265,000.00"
+          },
+          {
+            "text": "$286,126"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "African Export-Import Bank"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "00831TAC5"
+          },
+          {
+            "text": "US00831TAC53"
+          },
+          {
+            "text": "BMBP0Z2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "320,000.00"
+          },
+          {
+            "text": "$283,504"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Cloud Software Group, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "18912UAC6"
+          },
+          {
+            "text": "US18912UAC62"
+          },
+          {
+            "text": "BSQM7Z9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "273,000.00"
+          },
+          {
+            "text": "$282,772"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Southern Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "842587DF1"
+          },
+          {
+            "text": "US842587DF14"
+          },
+          {
+            "text": "BMG6YH0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "285,000.00"
+          },
+          {
+            "text": "$281,616"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Verisure Holding AB"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2NYM07"
+          },
+          {
+            "text": "XS2816753979"
+          },
+          {
+            "text": "BQSB3B8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$278,848"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Carnival Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "143658BX9"
+          },
+          {
+            "text": "US143658BX94"
+          },
+          {
+            "text": "US143658BX94"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "280,000.00"
+          },
+          {
+            "text": "$278,455"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Community Health Systems, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "12543DBN9"
+          },
+          {
+            "text": "US12543DBN93"
+          },
+          {
+            "text": "BP2F579"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "273,000.00"
+          },
+          {
+            "text": "$276,623"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Upbound Group, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "76009NAL4"
+          },
+          {
+            "text": "US76009NAL47"
+          },
+          {
+            "text": "BMFNQS7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "290,000.00"
+          },
+          {
+            "text": "$276,226"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Pinnacle Bidco Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2K5JX5"
+          },
+          {
+            "text": "XS2696094270"
+          },
+          {
+            "text": "ACI2K5JX5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$275,883"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "ZAR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AKKBBX62K"
+          },
+          {
+            "text": "25AKKBBX62K"
+          },
+          {
+            "text": "25AKKBBX62K"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-5,000,000.00"
+          },
+          {
+            "text": "$275,447"
+          },
+          {
+            "text": "-$5,000,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Anglo American Capital Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI287YN0"
+          },
+          {
+            "text": "XS2536431617"
+          },
+          {
+            "text": "BPX4NJ3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "240,000.00"
+          },
+          {
+            "text": "$274,421"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Nabors Industries, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "62957HAP0"
+          },
+          {
+            "text": "US62957HAP01"
+          },
+          {
+            "text": "BP39BV6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "273,000.00"
+          },
+          {
+            "text": "$273,097"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Ford Motor Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "345370DB3"
+          },
+          {
+            "text": "US345370DB39"
+          },
+          {
+            "text": "BNDY3J9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "275,000.00"
+          },
+          {
+            "text": "$272,021"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.14%"
+          }
+        ],
+        [
+          {
+            "text": "Eushi Finance, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29882DAB9"
+          },
+          {
+            "text": "US29882DAB91"
+          },
+          {
+            "text": "US29882DAB91"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "255,000.00"
+          },
+          {
+            "text": "$266,468"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "Duke Energy Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2683F1"
+          },
+          {
+            "text": "XS2488626610"
+          },
+          {
+            "text": "BMY28H8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "245,000.00"
+          },
+          {
+            "text": "$265,698"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "Energia Group ROI Financeco Designated Activity Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2HKKK2"
+          },
+          {
+            "text": "XS2656466542"
+          },
+          {
+            "text": "BPLVLL4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "235,000.00"
+          },
+          {
+            "text": "$265,244"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "MF1 2021-FL7 Ltd 10/16/2036"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "55284AAL2"
+          },
+          {
+            "text": "US55284AAL26"
+          },
+          {
+            "text": "55284AAL2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "270,000.00"
+          },
+          {
+            "text": "$262,048"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "Ford Motor Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "345370DA5"
+          },
+          {
+            "text": "US345370DA55"
+          },
+          {
+            "text": "BPLHQR3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "315,000.00"
+          },
+          {
+            "text": "$262,007"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ]
+      ]
+    },
+    {
+      "id": "table2",
+      "headers": [
+        {
+          "text": "Security"
+        },
+        {
+          "text": "Ticker"
+        },
+        {
+          "text": "CUSIP"
+        },
+        {
+          "text": "ISIN"
+        },
+        {
+          "text": "SEDOL"
+        },
+        {
+          "text": "Asset class"
+        },
+        {
+          "text": "Principal Amount"
+        },
+        {
+          "text": "Market value"
+        },
+        {
+          "text": "Notional value"
+        },
+        {
+          "text": "Percent of Net Assets"
+        }
+      ],
+      "rows": [
+        [
+          {
+            "text": "Nexi SpA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1X59N6"
+          },
+          {
+            "text": "XS2332590475"
+          },
+          {
+            "text": "BNC0NN2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$256,654"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "Eutelsat SA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "BKSB1DII3"
+          },
+          {
+            "text": "FR00140005C6"
+          },
+          {
+            "text": "BKSB1D4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$256,528"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "Telecom Italia S.p.A."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1V1BN4"
+          },
+          {
+            "text": "XS2288109676"
+          },
+          {
+            "text": "BM8DHB4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$249,998"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Hilcorp Energy I LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "431318AV6"
+          },
+          {
+            "text": "US431318AV64"
+          },
+          {
+            "text": "BL6JRX9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "266,000.00"
+          },
+          {
+            "text": "$249,496"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "UBS Group Ag Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "902613AJ7"
+          },
+          {
+            "text": "US902613AJ70"
+          },
+          {
+            "text": "BM94BZ8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "255,000.00"
+          },
+          {
+            "text": "$247,766"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "PETCO HEALTH AND WELLNESS COMP 2021 TERM LOAN B"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "71601HAB2"
+          },
+          {
+            "text": "US71601HAB24"
+          },
+          {
+            "text": "71601HAB2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "285,000.00"
+          },
+          {
+            "text": "$247,192"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "DISH Network Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25470MAG4"
+          },
+          {
+            "text": "US25470MAG42"
+          },
+          {
+            "text": "BQB9NW0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "234,000.00"
+          },
+          {
+            "text": "$247,141"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Government of the Dominican Republic"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25714PEP9"
+          },
+          {
+            "text": "US25714PEP99"
+          },
+          {
+            "text": "BPP39D4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$246,565"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "United Airlines Pass Through Certificates Series 2020-1"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "90932VAA3"
+          },
+          {
+            "text": "US90932VAA35"
+          },
+          {
+            "text": "BLBMJL5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "245,760.00"
+          },
+          {
+            "text": "$245,318"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "WOODWARD CAPITAL MANAGEMENT"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "749426AA0"
+          },
+          {
+            "text": "US749426AA06"
+          },
+          {
+            "text": "749426AA0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "244,425.76"
+          },
+          {
+            "text": "$245,154"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "NEW RESIDENTIAL MORTGAGE LOAN NRZT 2019 RPL3 M1 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "64830NAE1"
+          },
+          {
+            "text": "US64830NAE13"
+          },
+          {
+            "text": "US64830NAE13"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "275,000.00"
+          },
+          {
+            "text": "$244,870"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Clear Channel Outdoor Holdings, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "18453HAE6"
+          },
+          {
+            "text": "US18453HAE62"
+          },
+          {
+            "text": "BQV4VV0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "234,000.00"
+          },
+          {
+            "text": "$244,658"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "SFAVE Commercial Mortgage Securities Trust 2015-5AVE"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "78413MAQ1"
+          },
+          {
+            "text": "US78413MAQ15"
+          },
+          {
+            "text": "BVSS916"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "300,000.00"
+          },
+          {
+            "text": "$243,611"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Hertz Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "428040DC0"
+          },
+          {
+            "text": "US428040DC08"
+          },
+          {
+            "text": "BS84LN9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "260,000.00"
+          },
+          {
+            "text": "$239,924"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Arches Buyer Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "039524AB9"
+          },
+          {
+            "text": "US039524AB93"
+          },
+          {
+            "text": "BMHJ3H1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "265,000.00"
+          },
+          {
+            "text": "$238,096"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Kbc Group Nv Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2JH1W2"
+          },
+          {
+            "text": "BE0002961424"
+          },
+          {
+            "text": "BR852C1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$237,462"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Unibail-rodamco-westfield Se Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2GYTD0"
+          },
+          {
+            "text": "FR001400IU83"
+          },
+          {
+            "text": "BQZDN51"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$233,981"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Bank Of America Corporation Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "060505EU4"
+          },
+          {
+            "text": "US060505EU46"
+          },
+          {
+            "text": "BDB49M6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "230,000.00"
+          },
+          {
+            "text": "$232,770"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "BAT CAPITAL CORP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "05526DCD5"
+          },
+          {
+            "text": "US05526DCD57"
+          },
+          {
+            "text": "US05526DCD57"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "230,000.00"
+          },
+          {
+            "text": "$232,766"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "Telefonica Europe Bv Perp"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2CMK31"
+          },
+          {
+            "text": "XS2582389156"
+          },
+          {
+            "text": "BPQT3V7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$231,223"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "BANK 2019-BNK19"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "06540WBD4"
+          },
+          {
+            "text": "US06540WBD48"
+          },
+          {
+            "text": "US06540WBD48"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$230,928"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.12%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LLKBB49H9"
+          },
+          {
+            "text": "24LLKBB49H9"
+          },
+          {
+            "text": "24LLKBB49H9"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-1,300,000.00"
+          },
+          {
+            "text": "$228,702"
+          },
+          {
+            "text": "-$1,300,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "ASURION LLC 2021 2ND LIEN TERM LOAN B3"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "04649VAZ3"
+          },
+          {
+            "text": "US04649VAZ31"
+          },
+          {
+            "text": "04649VAZ3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "245,000.00"
+          },
+          {
+            "text": "$227,632"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Bristow Group Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "11040GAA1"
+          },
+          {
+            "text": "US11040GAA13"
+          },
+          {
+            "text": "BMVD700"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "228,000.00"
+          },
+          {
+            "text": "$225,613"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Santander Holdings USA, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "80282KBH8"
+          },
+          {
+            "text": "US80282KBH86"
+          },
+          {
+            "text": "US80282KBH86"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "205,000.00"
+          },
+          {
+            "text": "$225,351"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "TerraForm Power Operating, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "88104LAG8"
+          },
+          {
+            "text": "US88104LAG86"
+          },
+          {
+            "text": "BKPDH79"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "240,000.00"
+          },
+          {
+            "text": "$223,962"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Banco Industrial SA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "05991CAA1"
+          },
+          {
+            "text": "US05991CAA18"
+          },
+          {
+            "text": "BL5B3W7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "225,000.00"
+          },
+          {
+            "text": "$223,135"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Crocs, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "227046AB5"
+          },
+          {
+            "text": "US227046AB51"
+          },
+          {
+            "text": "BKP5429"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "$222,561"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "DI ISSUER LLC LMDC 2024 1A A2 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "23292FAD7"
+          },
+          {
+            "text": "US23292FAD78"
+          },
+          {
+            "text": "23292FAD7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "225,000.00"
+          },
+          {
+            "text": "$221,926"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "US Airways 2013-1 Pass Through Trust"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "90346WAA1"
+          },
+          {
+            "text": "US90346WAA18"
+          },
+          {
+            "text": "B94MBG7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "222,082.86"
+          },
+          {
+            "text": "$220,510"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "BroadStreet Partners, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "11135RAA3"
+          },
+          {
+            "text": "US11135RAA32"
+          },
+          {
+            "text": "BNBW7Y8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "228,000.00"
+          },
+          {
+            "text": "$219,849"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "LevelFinancing, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "527298BZ5"
+          },
+          {
+            "text": "US527298BZ50"
+          },
+          {
+            "text": "BQXNTC2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "197,000.00"
+          },
+          {
+            "text": "$219,656"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25ATKBBSK67"
+          },
+          {
+            "text": "25ATKBBSK67"
+          },
+          {
+            "text": "25ATKBBSK67"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-200,000.00"
+          },
+          {
+            "text": "$217,150"
+          },
+          {
+            "text": "-$200,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "Nova Alexandre Iii Societe Par Actions Simplifiee Frn"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2NTK83"
+          },
+          {
+            "text": "XS2800795374"
+          },
+          {
+            "text": "XS2800795374"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$216,725"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Prudential Financial, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "744320BH4"
+          },
+          {
+            "text": "US744320BH48"
+          },
+          {
+            "text": "BN741V3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "235,000.00"
+          },
+          {
+            "text": "$211,997"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "Bancolombia S.A."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "05968LAN2"
+          },
+          {
+            "text": "US05968LAN29"
+          },
+          {
+            "text": "US05968LAN29"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$211,003"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.11%"
+          }
+        ],
+        [
+          {
+            "text": "FIRST BRANDS 2021 TERM LOAN"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "31935HAD9"
+          },
+          {
+            "text": "US31935HAD98"
+          },
+          {
+            "text": "31935HAD9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "224,831.61"
+          },
+          {
+            "text": "$208,882"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Vodafone Group Plc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2G9NK5"
+          },
+          {
+            "text": "XS2630493570"
+          },
+          {
+            "text": "BRBMS32"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "150,000.00"
+          },
+          {
+            "text": "$208,451"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Government of Oman"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "68205LAS2"
+          },
+          {
+            "text": "US68205LAS25"
+          },
+          {
+            "text": "US68205LAS25"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$208,305"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Clydesdale Acquisition Holdings, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "18972EAB1"
+          },
+          {
+            "text": "US18972EAB11"
+          },
+          {
+            "text": "BQ3QRD8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$203,690"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AUKBBS257"
+          },
+          {
+            "text": "25AUKBBS257"
+          },
+          {
+            "text": "25AUKBBS257"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-155,000.00"
+          },
+          {
+            "text": "$200,992"
+          },
+          {
+            "text": "-$155,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "COMMSCOPE INC 2024 TERM LOAN"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "BA000CR92"
+          },
+          {
+            "text": "BA000CR92"
+          },
+          {
+            "text": "BA000CR92"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$200,416"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "TIERPOINT ISSUER LLC TPDC 2023 1A A2 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "88651CAA8"
+          },
+          {
+            "text": "US88651CAA80"
+          },
+          {
+            "text": "88651CAA8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$200,272"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Raiffeisen Bank International AG"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI1YJBD4"
+          },
+          {
+            "text": "XS2353473692"
+          },
+          {
+            "text": "BNDTPT8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$199,489"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Bausch Health Companies Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "071734AQ0"
+          },
+          {
+            "text": "US071734AQ04"
+          },
+          {
+            "text": "071734AQ0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$197,000"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Government of Ivory Coast"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "221625AU0"
+          },
+          {
+            "text": "US221625AU01"
+          },
+          {
+            "text": "US221625AU01"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$195,760"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Cloud Software Group, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "18912UAA0"
+          },
+          {
+            "text": "US18912UAA07"
+          },
+          {
+            "text": "BRJQLF9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "192,000.00"
+          },
+          {
+            "text": "$194,084"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "California Resources Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "13057QAK3"
+          },
+          {
+            "text": "US13057QAK31"
+          },
+          {
+            "text": "BS880Y5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "189,000.00"
+          },
+          {
+            "text": "$193,891"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Venture Global LNG, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92332YAB7"
+          },
+          {
+            "text": "US92332YAB74"
+          },
+          {
+            "text": "BRK4301"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "188,000.00"
+          },
+          {
+            "text": "$192,633"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "Cablevision Lightpath LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "12687GAB5"
+          },
+          {
+            "text": "US12687GAB59"
+          },
+          {
+            "text": "BMG5F07"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "203,000.00"
+          },
+          {
+            "text": "$186,167"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Global Payments Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "37940XAR3"
+          },
+          {
+            "text": "US37940XAR35"
+          },
+          {
+            "text": "BNBVCY0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "190,000.00"
+          },
+          {
+            "text": "$185,658"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Iron Mountain Incorporated"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "46284VAN1"
+          },
+          {
+            "text": "US46284VAN10"
+          },
+          {
+            "text": "BMG1HP4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$185,096"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Oceaneering International, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "675232AB8"
+          },
+          {
+            "text": "US675232AB89"
+          },
+          {
+            "text": "BF3SS34"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "187,000.00"
+          },
+          {
+            "text": "$184,844"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "New Economy Assets - PhaseLlc"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "643821AB7"
+          },
+          {
+            "text": "US643821AB76"
+          },
+          {
+            "text": "US643821AB76"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$182,426"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Government of the Dominican Republic"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25714PEF1"
+          },
+          {
+            "text": "US25714PEF18"
+          },
+          {
+            "text": "US25714PEF18"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "$182,290"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Borr IHC Limited"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "100018AA8"
+          },
+          {
+            "text": "US100018AA89"
+          },
+          {
+            "text": "BMTQPB8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "185,365.85"
+          },
+          {
+            "text": "$177,355"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Ephios SubcoS.a r.l."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2M2689"
+          },
+          {
+            "text": "XS2734938249"
+          },
+          {
+            "text": "BPDX0X3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "150,000.00"
+          },
+          {
+            "text": "$174,199"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "Nabors Industries, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "62957HAQ8"
+          },
+          {
+            "text": "US62957HAQ83"
+          },
+          {
+            "text": "BRCBLP1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "195,000.00"
+          },
+          {
+            "text": "$171,713"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "CSC Holdings, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "126307AQ0"
+          },
+          {
+            "text": "US126307AQ03"
+          },
+          {
+            "text": "BD9FV69"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "186,000.00"
+          },
+          {
+            "text": "$171,376"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "AMERICAN GREETINGS CORPORATION 2024 TERM LOAN B"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "02639DAN6"
+          },
+          {
+            "text": "US02639DAN66"
+          },
+          {
+            "text": "02639DAN6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "163,955.70"
+          },
+          {
+            "text": "$164,126"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "FREEDOM FINANCIAL FREED 2022 3FP D 144A"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "35634EAD1"
+          },
+          {
+            "text": "US35634EAD13"
+          },
+          {
+            "text": "35634EAD1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "156,747.16"
+          },
+          {
+            "text": "$157,700"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BFKBB3HLL"
+          },
+          {
+            "text": "25BFKBB3HLL"
+          },
+          {
+            "text": "25BFKBB3HLL"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-145,000.00"
+          },
+          {
+            "text": "$157,433"
+          },
+          {
+            "text": "-$145,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "APA Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "03743QAJ7"
+          },
+          {
+            "text": "US03743QAJ76"
+          },
+          {
+            "text": "US03743QAJ76"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "182,000.00"
+          },
+          {
+            "text": "$155,996"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "Aligned Data Centers Issuer LLC 08/15/2046"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "01627AAB4"
+          },
+          {
+            "text": "US01627AAB44"
+          },
+          {
+            "text": "01627AAB4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "160,000.00"
+          },
+          {
+            "text": "$153,335"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "Intel Corporation"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "458140CM0"
+          },
+          {
+            "text": "US458140CM03"
+          },
+          {
+            "text": "US458140CM03"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "165,000.00"
+          },
+          {
+            "text": "$152,744"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "GEO Group, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "36162JAH9"
+          },
+          {
+            "text": "US36162JAH95"
+          },
+          {
+            "text": "US36162JAH95"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "140,000.00"
+          },
+          {
+            "text": "$152,739"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "U.S. Treasuries"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "912810UF3"
+          },
+          {
+            "text": "US912810UF39"
+          },
+          {
+            "text": "BTPH0B9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "150,000.00"
+          },
+          {
+            "text": "$150,609"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.08%"
+          }
+        ],
+        [
+          {
+            "text": "Government of the Dominican Republic"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25714PED6"
+          },
+          {
+            "text": "US25714PED69"
+          },
+          {
+            "text": "US25714PED69"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "160,000.00"
+          },
+          {
+            "text": "$149,984"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "Nexstar Escrow, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "65343HAA9"
+          },
+          {
+            "text": "US65343HAA95"
+          },
+          {
+            "text": "BJXR8L7"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "150,000.00"
+          },
+          {
+            "text": "$148,890"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "Guardian Life Insurance Company of America"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "401378AC8"
+          },
+          {
+            "text": "US401378AC83"
+          },
+          {
+            "text": "BYMXNV6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "170,000.00"
+          },
+          {
+            "text": "$148,332"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "Coterra Energy Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "127097AM5"
+          },
+          {
+            "text": "US127097AM58"
+          },
+          {
+            "text": "US127097AM58"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "150,000.00"
+          },
+          {
+            "text": "$148,279"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "Magic MergeCo, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "55916AAB0"
+          },
+          {
+            "text": "US55916AAB08"
+          },
+          {
+            "text": "BN6JYJ8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "268,000.00"
+          },
+          {
+            "text": "$141,381"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "U.S. Treasuries"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "91282CMF5"
+          },
+          {
+            "text": "US91282CMF58"
+          },
+          {
+            "text": "BSLQ8M0"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "140,000.00"
+          },
+          {
+            "text": "$141,116"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "ROCKET SOFTWARE, INC. 2023 USD TERM LOAN"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "77313DAW1"
+          },
+          {
+            "text": "US77313DAW11"
+          },
+          {
+            "text": "77313DAW1"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "134,862.50"
+          },
+          {
+            "text": "$134,554"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.07%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BEKBBVDK5"
+          },
+          {
+            "text": "25BEKBBVDK5"
+          },
+          {
+            "text": "25BEKBBVDK5"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-750,000.00"
+          },
+          {
+            "text": "$131,944"
+          },
+          {
+            "text": "-$750,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "AdaptHealth LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "00653VAE1"
+          },
+          {
+            "text": "US00653VAE11"
+          },
+          {
+            "text": "BMY1GC6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "141,000.00"
+          },
+          {
+            "text": "$129,560"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Bausch Health Companies Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "071734AP2"
+          },
+          {
+            "text": "US071734AP21"
+          },
+          {
+            "text": "BN7SNB9"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "128,000.00"
+          },
+          {
+            "text": "$129,440"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Rockies Express Pipeline LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "77340RAM9"
+          },
+          {
+            "text": "US77340RAM97"
+          },
+          {
+            "text": "B4SZ6J5"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "130,000.00"
+          },
+          {
+            "text": "$127,961"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "CIMIC Finance (USA) Pty Ltd."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "171873AB8"
+          },
+          {
+            "text": "US171873AB83"
+          },
+          {
+            "text": "US171873AB83"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "120,000.00"
+          },
+          {
+            "text": "$127,673"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Encino Acquisition Partners Holdings, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29254BAA5"
+          },
+          {
+            "text": "US29254BAA52"
+          },
+          {
+            "text": "BNG0HD6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "122,000.00"
+          },
+          {
+            "text": "$124,333"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Charter Communications Operating. LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "161175CA0"
+          },
+          {
+            "text": "US161175CA05"
+          },
+          {
+            "text": "BKY7998"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "185,000.00"
+          },
+          {
+            "text": "$121,895"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Energy Transfer LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29273VAX8"
+          },
+          {
+            "text": "US29273VAX82"
+          },
+          {
+            "text": "BRF20T8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "113,000.00"
+          },
+          {
+            "text": "$119,465"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BCKBB0DZ6"
+          },
+          {
+            "text": "25BCKBB0DZ6"
+          },
+          {
+            "text": "25BCKBB0DZ6"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "-110,000.00"
+          },
+          {
+            "text": "$119,432"
+          },
+          {
+            "text": "-$110,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "Var Energi ASA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2L31Q3"
+          },
+          {
+            "text": "XS2708134023"
+          },
+          {
+            "text": "BLGZDS4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "100,000.00"
+          },
+          {
+            "text": "$118,846"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "Encino Acquisition Partners Holdings, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29254BAB3"
+          },
+          {
+            "text": "US29254BAB36"
+          },
+          {
+            "text": "BSBK996"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "108,000.00"
+          },
+          {
+            "text": "$115,368"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "UnitedHealth Group Incorporated"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "91324PFL1"
+          },
+          {
+            "text": "US91324PFL13"
+          },
+          {
+            "text": "US91324PFL13"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "115,000.00"
+          },
+          {
+            "text": "$114,280"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.06%"
+          }
+        ],
+        [
+          {
+            "text": "PartnerRe Finance B LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "70213BAC5"
+          },
+          {
+            "text": "US70213BAC54"
+          },
+          {
+            "text": "US70213BAC54"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "115,000.00"
+          },
+          {
+            "text": "$106,852"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.05%"
+          }
+        ],
+        [
+          {
+            "text": "SWTCH 2024-1A A2 03/25/2054"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "871044AA1"
+          },
+          {
+            "text": "US871044AA18"
+          },
+          {
+            "text": "US871044AA18"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "100,000.00"
+          },
+          {
+            "text": "$101,205"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.05%"
+          }
+        ],
+        [
+          {
+            "text": "LevelFinancing, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "527298CD3"
+          },
+          {
+            "text": "US527298CD30"
+          },
+          {
+            "text": "BSFR9T3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "119,000.00"
+          },
+          {
+            "text": "$100,258"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.05%"
+          }
+        ],
+        [
+          {
+            "text": "SES SA"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ACI2R23P9"
+          },
+          {
+            "text": "XS2898762864"
+          },
+          {
+            "text": "BPMQ6W4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "100,000.00"
+          },
+          {
+            "text": "$98,495"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.05%"
+          }
+        ],
+        [
+          {
+            "text": "Pediatrix Medical Group, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "58502BAE6"
+          },
+          {
+            "text": "US58502BAE65"
+          },
+          {
+            "text": "BMZPWJ6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "90,000.00"
+          },
+          {
+            "text": "$86,943"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "Victra Holdings, LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "92648DAA4"
+          },
+          {
+            "text": "US92648DAA46"
+          },
+          {
+            "text": "US92648DAA46"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "79,000.00"
+          },
+          {
+            "text": "$82,169"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "Enbridge Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29250NCD5"
+          },
+          {
+            "text": "US29250NCD57"
+          },
+          {
+            "text": "US29250NCD57"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "75,000.00"
+          },
+          {
+            "text": "$75,515"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "ConocoPhillips Company"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "20826FBN5"
+          },
+          {
+            "text": "US20826FBN50"
+          },
+          {
+            "text": "US20826FBN50"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "75,000.00"
+          },
+          {
+            "text": "$73,200"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "AADVANTAGE LOYALTY IP LTD 2021 TERM LOAN"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "02376CBJ3"
+          },
+          {
+            "text": "US02376CBJ36"
+          },
+          {
+            "text": "02376CBJ3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "70,000.00"
+          },
+          {
+            "text": "$71,390"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "EnLink Midstream Partners, L.P."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "29336UAD9"
+          },
+          {
+            "text": "US29336UAD90"
+          },
+          {
+            "text": "BSM8V15"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "75,000.00"
+          },
+          {
+            "text": "$65,286"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.03%"
+          }
+        ],
+        [
+          {
+            "text": "United Airlines 2020-1 Class A Pass Through Trust"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "90931GAA7"
+          },
+          {
+            "text": "US90931GAA76"
+          },
+          {
+            "text": "BMFV4N2"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "59,670.04"
+          },
+          {
+            "text": "$60,737"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.03%"
+          }
+        ],
+        [
+          {
+            "text": "Province of Cordoba"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "74408DAC8"
+          },
+          {
+            "text": "US74408DAC83"
+          },
+          {
+            "text": "BYQLS77"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "50,001.00"
+          },
+          {
+            "text": "$49,751"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "AssuredPartners, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "04624VAB5"
+          },
+          {
+            "text": "US04624VAB53"
+          },
+          {
+            "text": "BM8KSR8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "47,000.00"
+          },
+          {
+            "text": "$46,991"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "Antero Midstream Partners LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "03690AAK2"
+          },
+          {
+            "text": "US03690AAK25"
+          },
+          {
+            "text": "BP2SNQ3"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "43,000.00"
+          },
+          {
+            "text": "$43,806"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "LevelFinancing, Inc."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "527298BT9"
+          },
+          {
+            "text": "US527298BT90"
+          },
+          {
+            "text": "BMBKDF8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "54,000.00"
+          },
+          {
+            "text": "$41,850"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "Buckeye Partners, L.P."
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "118230AM3"
+          },
+          {
+            "text": "US118230AM30"
+          },
+          {
+            "text": "BGDRY29"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "40,000.00"
+          },
+          {
+            "text": "$35,941"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "DIRECTV FINANCING LLC TERM LOAN"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25460HAB8"
+          },
+          {
+            "text": "US25460HAB87"
+          },
+          {
+            "text": "25460HAB8"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "18,726.57"
+          },
+          {
+            "text": "$18,732"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Hilcorp Energy I LP"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "431318BC7"
+          },
+          {
+            "text": "US431318BC74"
+          },
+          {
+            "text": "BSBJXC4"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "10,000.00"
+          },
+          {
+            "text": "$10,356"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "Outfront Media Capital LLC"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "69007TAC8"
+          },
+          {
+            "text": "US69007TAC80"
+          },
+          {
+            "text": "BJLPYM6"
+          },
+          {
+            "text": "Fixed Income Security"
+          },
+          {
+            "text": "5,000.00"
+          },
+          {
+            "text": "$4,610"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AEKBBZTHM"
+          },
+          {
+            "text": "25AEKBBZTHM"
+          },
+          {
+            "text": "25AEKBBZTHM"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "25,000.00"
+          },
+          {
+            "text": "-$27,144"
+          },
+          {
+            "text": "$25,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LMKBBWJ9V"
+          },
+          {
+            "text": "24LMKBBWJ9V"
+          },
+          {
+            "text": "24LMKBBWJ9V"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "24,000.00"
+          },
+          {
+            "text": "-$31,121"
+          },
+          {
+            "text": "$24,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AGKBBPPZ0"
+          },
+          {
+            "text": "25AGKBBPPZ0"
+          },
+          {
+            "text": "25AGKBBPPZ0"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "25,000.00"
+          },
+          {
+            "text": "-$32,418"
+          },
+          {
+            "text": "$25,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LPKBBZXQR"
+          },
+          {
+            "text": "24LPKBBZXQR"
+          },
+          {
+            "text": "24LPKBBZXQR"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "35,000.00"
+          },
+          {
+            "text": "-$38,001"
+          },
+          {
+            "text": "$35,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25AAKBBX565"
+          },
+          {
+            "text": "25AAKBBX565"
+          },
+          {
+            "text": "25AAKBBX565"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "250,000.00"
+          },
+          {
+            "text": "-$43,981"
+          },
+          {
+            "text": "$250,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LLKBB1P3L"
+          },
+          {
+            "text": "24LLKBB1P3L"
+          },
+          {
+            "text": "24LLKBB1P3L"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "60,000.00"
+          },
+          {
+            "text": "-$65,145"
+          },
+          {
+            "text": "$60,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CGKBBZ0CB"
+          },
+          {
+            "text": "25CGKBBZ0CB"
+          },
+          {
+            "text": "25CGKBBZ0CB"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "180,000.00"
+          },
+          {
+            "text": "-$195,435"
+          },
+          {
+            "text": "$180,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "BRL250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BMKBBXP2C"
+          },
+          {
+            "text": "25BMKBBXP2C"
+          },
+          {
+            "text": "25BMKBBXP2C"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "1,300,000.00"
+          },
+          {
+            "text": "-$228,702"
+          },
+          {
+            "text": "$1,300,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BAKBB5CRB"
+          },
+          {
+            "text": "25BAKBB5CRB"
+          },
+          {
+            "text": "25BAKBB5CRB"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "200,000.00"
+          },
+          {
+            "text": "-$259,345"
+          },
+          {
+            "text": "$200,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25ASKBBTG0K"
+          },
+          {
+            "text": "25ASKBBTG0K"
+          },
+          {
+            "text": "25ASKBBTG0K"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "280,000.00"
+          },
+          {
+            "text": "-$304,009"
+          },
+          {
+            "text": "$280,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CFKBBZP4F"
+          },
+          {
+            "text": "25CFKBBZP4F"
+          },
+          {
+            "text": "25CFKBBZP4F"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "290,000.00"
+          },
+          {
+            "text": "-$314,867"
+          },
+          {
+            "text": "$290,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CLKBBW9HK"
+          },
+          {
+            "text": "25CLKBBW9HK"
+          },
+          {
+            "text": "25CLKBBW9HK"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "310,000.00"
+          },
+          {
+            "text": "-$336,582"
+          },
+          {
+            "text": "$310,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "ZAR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BDKBB1XGZ"
+          },
+          {
+            "text": "25BDKBB1XGZ"
+          },
+          {
+            "text": "25BDKBB1XGZ"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "9,500,000.00"
+          },
+          {
+            "text": "-$523,349"
+          },
+          {
+            "text": "$9,500,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "24LNKBB5JZW"
+          },
+          {
+            "text": "24LNKBB5JZW"
+          },
+          {
+            "text": "24LNKBB5JZW"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "645,000.00"
+          },
+          {
+            "text": "-$700,307"
+          },
+          {
+            "text": "$645,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "SPXW06485 CDS USD P V 03MEVENT SPXW06485_PRO CCPCDX"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "99S255QG9"
+          },
+          {
+            "text": "99S255QG9"
+          },
+          {
+            "text": "99S255QG9"
+          },
+          {
+            "text": "Credit Default Swap"
+          },
+          {
+            "text": "-900,000.00"
+          },
+          {
+            "text": "-$900,000"
+          },
+          {
+            "text": "-$900,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CAKBB24BL"
+          },
+          {
+            "text": "25CAKBB24BL"
+          },
+          {
+            "text": "25CAKBB24BL"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "700,000.00"
+          },
+          {
+            "text": "-$907,706"
+          },
+          {
+            "text": "$700,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "MYR250402"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25ARKBBW52P"
+          },
+          {
+            "text": "25ARKBBW52P"
+          },
+          {
+            "text": "25ARKBBW52P"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "4,500,000.00"
+          },
+          {
+            "text": "-$1,017,227"
+          },
+          {
+            "text": "$4,500,000"
+          },
+          {
+            "text": "-0.01%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CCKBB17NZ"
+          },
+          {
+            "text": "25CCKBB17NZ"
+          },
+          {
+            "text": "25CCKBB17NZ"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "950,000.00"
+          },
+          {
+            "text": "-$1,031,460"
+          },
+          {
+            "text": "$950,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "GBP250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CJKBBT7GR"
+          },
+          {
+            "text": "25CJKBBT7GR"
+          },
+          {
+            "text": "25CJKBBT7GR"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "800,000.00"
+          },
+          {
+            "text": "-$1,037,379"
+          },
+          {
+            "text": "$800,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CHKBBW8B5"
+          },
+          {
+            "text": "25CHKBBW8B5"
+          },
+          {
+            "text": "25CHKBBW8B5"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "1,325,000.00"
+          },
+          {
+            "text": "-$1,438,616"
+          },
+          {
+            "text": "$1,325,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CAKBB27SH"
+          },
+          {
+            "text": "25CAKBB27SH"
+          },
+          {
+            "text": "25CAKBB27SH"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "1,350,000.00"
+          },
+          {
+            "text": "-$1,465,759"
+          },
+          {
+            "text": "$1,350,000"
+          },
+          {
+            "text": "0.02%"
+          }
+        ],
+        [
+          {
+            "text": "SPXG06L57 CDS USD P V 03MEVENT SPXG06L57_PRO CCPCDX"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "99S25YXD5"
+          },
+          {
+            "text": "99S25YXD5"
+          },
+          {
+            "text": "99S25YXD5"
+          },
+          {
+            "text": "Credit Default Swap"
+          },
+          {
+            "text": "-1,720,000.00"
+          },
+          {
+            "text": "-$1,720,000"
+          },
+          {
+            "text": "-$1,720,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "CAD250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CBKBB45H7"
+          },
+          {
+            "text": "25CBKBB45H7"
+          },
+          {
+            "text": "25CBKBB45H7"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "2,700,000.00"
+          },
+          {
+            "text": "-$1,887,091"
+          },
+          {
+            "text": "$2,700,000"
+          },
+          {
+            "text": "0.01%"
+          }
+        ],
+        [
+          {
+            "text": "CAD250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BCKBB1FL6"
+          },
+          {
+            "text": "25BCKBB1FL6"
+          },
+          {
+            "text": "25BCKBB1FL6"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "286,640,100.00"
+          },
+          {
+            "text": "-$1,928,033"
+          },
+          {
+            "text": "$286,640,100"
+          },
+          {
+            "text": "0.03%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CJKBBT5J4"
+          },
+          {
+            "text": "25CJKBBT5J4"
+          },
+          {
+            "text": "25CJKBBT5J4"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "1,850,000.00"
+          },
+          {
+            "text": "-$2,008,633"
+          },
+          {
+            "text": "$1,850,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "US 5YR NOTE (CBT) JUN25 XCBT 20250630"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ADI2RHWY3"
+          },
+          {
+            "text": "ADI2RHWY3"
+          },
+          {
+            "text": "ADI2RHWY3"
+          },
+          {
+            "text": "Fixed Income Futures"
+          },
+          {
+            "text": "-2,400,000.00"
+          },
+          {
+            "text": "-$2,592,375"
+          },
+          {
+            "text": "-$2,400,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "SPJO0MA79 CDS EUR P V 03MEVENT SPJO0MA79_PRO CCPITRAXX"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "99S255QD6"
+          },
+          {
+            "text": "99S255QD6"
+          },
+          {
+            "text": "99S255QD6"
+          },
+          {
+            "text": "Credit Default Swap"
+          },
+          {
+            "text": "-2,657,004.50"
+          },
+          {
+            "text": "-$2,883,779"
+          },
+          {
+            "text": "-$2,657,004"
+          },
+          {
+            "text": "-0.05%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BAKBB5CQL"
+          },
+          {
+            "text": "25BAKBB5CQL"
+          },
+          {
+            "text": "25BAKBB5CQL"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "3,500,000.00"
+          },
+          {
+            "text": "-$3,800,117"
+          },
+          {
+            "text": "$3,500,000"
+          },
+          {
+            "text": "0.10%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25CIKBBTX0Z"
+          },
+          {
+            "text": "25CIKBBTX0Z"
+          },
+          {
+            "text": "25CIKBBTX0Z"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "3,500,000.00"
+          },
+          {
+            "text": "-$3,800,117"
+          },
+          {
+            "text": "$3,500,000"
+          },
+          {
+            "text": "0.00%"
+          }
+        ],
+        [
+          {
+            "text": "EUR250331"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "25BGKBBV9N8"
+          },
+          {
+            "text": "25BGKBBV9N8"
+          },
+          {
+            "text": "25BGKBBV9N8"
+          },
+          {
+            "text": "Forward Contract"
+          },
+          {
+            "text": "3,650,000.00"
+          },
+          {
+            "text": "-$3,962,979"
+          },
+          {
+            "text": "$3,650,000"
+          },
+          {
+            "text": "0.09%"
+          }
+        ],
+        [
+          {
+            "text": "EURO-BOBL FUTURE JUN25 XEUR 20250606"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ADI2RGN09"
+          },
+          {
+            "text": "ADI2RGN09"
+          },
+          {
+            "text": "ADI2RGN09"
+          },
+          {
+            "text": "Fixed Income Futures"
+          },
+          {
+            "text": "-4,900,000.00"
+          },
+          {
+            "text": "-$6,231,883"
+          },
+          {
+            "text": "-$4,900,000"
+          },
+          {
+            "text": "0.04%"
+          }
+        ],
+        [
+          {
+            "text": "EURO-BUND FUTURE JUN25 XEUR 20250606"
+          },
+          {
+            "text": "RXM5"
+          },
+          {
+            "text": "ADI2RGMT7"
+          },
+          {
+            "text": "ADI2RGMT7"
+          },
+          {
+            "text": "ADI2RGMT7"
+          },
+          {
+            "text": "Fixed Income Futures"
+          },
+          {
+            "text": "-7,400,000.00"
+          },
+          {
+            "text": "-$10,294,890"
+          },
+          {
+            "text": "-$7,400,000"
+          },
+          {
+            "text": "0.13%"
+          }
+        ],
+        [
+          {
+            "text": "US 10YR ULTRA FUT JUN25 XCBT 20250618"
+          },
+          {
+            "text": "-"
+          },
+          {
+            "text": "ADI2RGKV4"
+          },
+          {
+            "text": "ADI2RGKV4"
+          },
+          {
+            "text": "ADI2RGKV4"
+          },
+          {
+            "text": "Fixed Income Futures"
+          },
+          {
+            "text": "-17,100,000.00"
+          },
+          {
+            "text": "-$19,534,078"
+          },
+          {
+            "text": "-$17,100,000"
+          },
+          {
+            "text": "-0.06%"
+          }
+        ]
+      ]
+    }
+  ]
+}
