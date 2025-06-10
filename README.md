@@ -4,5 +4,5 @@ React version of https://github.com/martinmqz/table-with-sticky-header-and-stick
 > Useful for long-content tables.<br> 
 > Intuitively helps the user scroll left/right through the current table's content without the need to scroll to the bottom of the table.
 
-Demo: http://omartini.com/demo/react-table-with-sticky-header-and-sticky-scrollbar
+Demo: https://martinmqz.github.io/react-table-with-sticky-header-and-sticky-scrollbar/?github
 
