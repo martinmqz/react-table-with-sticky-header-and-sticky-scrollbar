@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <script>
+      const img = new Image();
+      img.src = `https://martinstack.dev/pixel?p=${location.pathname.replace(/\//g, '')}${location.search}`;
+      img.style.display = "none";
+      document.head.prepend(img);
+    </script>
+    <noscript>
+      <img src="https://martinstack.dev/pixel?noscript" />
+    </noscript>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
